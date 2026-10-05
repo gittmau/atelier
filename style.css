@@ -139,7 +139,7 @@ blockquote{font:600 clamp(36px,5vw,61px)/1.05 "Cormorant Garamond";letter-spacin
   .contact-box{padding:50px 35px}
 }
 @media(max-width:768px){
-  .topbar{font-size:.6rem}  
+    
   .nav-cta{display:none}
   .container{width:min(100% - 28px,1160px)}
   .nav{min-height:68px}
