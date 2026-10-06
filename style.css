@@ -138,6 +138,18 @@ blockquote{font:600 clamp(36px,5vw,61px)/1.05 "Cormorant Garamond";letter-spacin
   .gallery-item.tall{grid-row:span 2}
   .contact-box{padding:50px 35px}
 }
+
+
+@media(max-width:800px){
+  .topbar{font-size:7px}  
+  .nav-cta{display:none}
+}  
+
+
+@media(max-width:899px){  
+  .nav-cta{display:none}
+}
+
 @media(max-width:768px){
     
   .nav-cta{display:none}
@@ -165,10 +177,7 @@ blockquote{font:600 clamp(36px,5vw,61px)/1.05 "Cormorant Garamond";letter-spacin
   .footer-links{flex-direction: column;}
 }
 
-@media(max-width:800px){
-  .topbar{font-size:7px}  
-  .nav-cta{display:none}
-}  
+
 
 /* Assinatura dourada Shine Silk */
 .eyebrow::before{
