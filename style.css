@@ -166,7 +166,7 @@ blockquote{font:600 clamp(36px,5vw,61px)/1.05 "Cormorant Garamond";letter-spacin
 }
 
 @media(max-width:800px){
-  .topbar{font-size:6px}  
+  .topbar{font-size:10px}  
   .nav-cta{display:none}
 }  
 
